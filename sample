@@ -1,0 +1,13 @@
+
+0,1,1,2,3,5,8
+
+def sequance(n)
+    while i<=n:
+        if n==0:
+            print(n)
+
+        else:
+            print(sequnace(n)+  sequnace(n+1))
+
+sequnace(8)
+

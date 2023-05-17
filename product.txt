@@ -1,0 +1,4 @@
+1,Car,500,RED
+2,Mobile,600,Black
+3,Prod3,5500,RED
+4,Prod4,8000,RED
